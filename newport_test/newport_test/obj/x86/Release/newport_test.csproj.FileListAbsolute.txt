@@ -1,0 +1,12 @@
+C:\Users\Mu Yang\Documents\Visual Studio 2015\Projects\newport_test\newport_test\bin\x86\Release\newport_test.exe.config
+C:\Users\Mu Yang\Documents\Visual Studio 2015\Projects\newport_test\newport_test\bin\x86\Release\newport_test.exe
+C:\Users\Mu Yang\Documents\Visual Studio 2015\Projects\newport_test\newport_test\bin\x86\Release\newport_test.pdb
+C:\Users\Mu Yang\Documents\Visual Studio 2015\Projects\newport_test\newport_test\obj\x86\Release\newport_test.Form1.resources
+C:\Users\Mu Yang\Documents\Visual Studio 2015\Projects\newport_test\newport_test\obj\x86\Release\newport_test.Properties.Resources.resources
+C:\Users\Mu Yang\Documents\Visual Studio 2015\Projects\newport_test\newport_test\obj\x86\Release\newport_test.csproj.GenerateResource.Cache
+C:\Users\Mu Yang\Documents\Visual Studio 2015\Projects\newport_test\newport_test\obj\x86\Release\newport_test.exe
+C:\Users\Mu Yang\Documents\Visual Studio 2015\Projects\newport_test\newport_test\obj\x86\Release\newport_test.pdb
+C:\Users\Mu Yang\Documents\Visual Studio 2015\Projects\newport_test\newport_test\obj\x86\Release\newport_test.csprojResolveAssemblyReference.cache
+D:\Documents\Visual Studio 2015\Projects\newport_test\newport_test\bin\x86\Release\newport_test.exe.config
+D:\Documents\Visual Studio 2015\Projects\newport_test\newport_test\obj\x86\Release\newport_test.exe
+D:\Documents\Visual Studio 2015\Projects\newport_test\newport_test\obj\x86\Release\newport_test.pdb
